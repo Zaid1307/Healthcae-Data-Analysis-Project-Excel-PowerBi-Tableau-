@@ -1,4 +1,4 @@
-# Healthcae-Data-Analysis-Project-Excel-PowerBi-Tableau-
+# Healthcare-Data-Analysis-Project-Excel-PowerBi-Tableau-
 Project Overview
 
 This project focuses on analyzing healthcare data to uncover actionable insights, improve operational efficiency, and enhance patient outcomes. The analysis was completed as part of a collaborative effort by a group of 5 team members, utilizing Excel for data cleaning and calculations, along with Power BI and Tableau for creating impactful dashboards.
